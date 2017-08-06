@@ -16,6 +16,8 @@ $install \
     dstat \
     nmap \
     dnsutils \
+    mlocate \
+    mtr \
     apt-transport-https \
     ca-certificates \
     curl \
